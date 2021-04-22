@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-实验用的printdemo，先启用node后端
+产品原型printdemo，先启用node后端
 
 node server.js
 
