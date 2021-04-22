@@ -1,14 +1,20 @@
 # vueprintdemo
 
 > A Vue.js project
-> 实验用的printdemo，先启用node后端
+
+实验用的printdemo，先启用node后端
+
 node server.js
 
 ## Build Setup
 
 ``` bash
+
 # install dependencies
 npm install
+
+#启动后端
+node server.js
 
 # serve with hot reload at localhost:8080
 npm run dev
